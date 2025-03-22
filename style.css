@@ -39,3 +39,41 @@
 .logo{
     font-size: 1.3rem;
 }
+
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+
+}
+
+.section2 h1{
+    font-size:2rem
+
+}
+
+.text-center{
+    align-items: center;
+    align-content: center;
+}
+
+.box{
+    margin:12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box li{
+    margin: 12px 2px
+}
+
+.highlighted{
+    font-size: 1.0rem;
+    font-weight: bolder;
+}
